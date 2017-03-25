@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastFmRecommendations", "LastFmRecommendations\LastFmRecommendations.csproj", "{14048000-1906-4EBE-8B2B-06C9D1FAD31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14048000-1906-4EBE-8B2B-06C9D1FAD31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14048000-1906-4EBE-8B2B-06C9D1FAD31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14048000-1906-4EBE-8B2B-06C9D1FAD31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14048000-1906-4EBE-8B2B-06C9D1FAD31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
